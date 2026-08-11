@@ -37,7 +37,7 @@ Former forensic science investigator with hands-on experience in criminal invest
 
 | Project | Description |
 |---------|-------------|
-| **[Security Log Analyzer](https://github.com/AnilRamesh95/security-log-analyzer)** | Python tool that detects brute force attacks, port scans, privilege escalation attempts, and off-hours activity in auth and firewall logs. Maps findings to MITRE ATT&CK framework. |
+| **[Security Log Analyzer](https://github.com/Anilokumar/log-analyzer)** | Python tool that detects brute force attacks, port scans, privilege escalation attempts, and off-hours activity in auth and firewall logs. Maps findings to MITRE ATT&CK framework. |
 | **Incident Response Report** | Full investigation and writeup of a simulated security incident with timeline reconstruction, IOC identification, and remediation steps. *(in progress)* |
 
 ---
