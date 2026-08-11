@@ -30,6 +30,7 @@ Former forensic science investigator with hands-on experience in criminal invest
 |--------------|--------|
 | TryHackMe Pre Security | ![earned](https://img.shields.io/badge/Earned-2ea44f?style=flat-square) |
 | CompTIA Security+ (SY0-701) | ![earned](https://img.shields.io/badge/Earned-2ea44f?style=flat-square) |
+| CCNA (Cisco Certified Network Associate) | ![earned](https://img.shields.io/badge/Earned-2ea44f?style=flat-square)
 
 ---
 
