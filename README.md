@@ -18,7 +18,6 @@ Former forensic science investigator with hands-on experience in criminal invest
 
 ### `> Currently working on`
 
-- 
 - Incident Response Report — *building out investigation writeup with MITRE ATT&CK mapping*
 - TryHackMe learning paths — *expanding hands-on offensive/defensive skills*
 
